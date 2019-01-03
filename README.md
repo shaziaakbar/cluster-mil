@@ -3,11 +3,13 @@
 --------------------------------------------------------------------------- 
 ### Description: 
 
-Multiple instance learning framework designed around a convolutional deep neural network. 
+cluster-mil is a weakly supervised learning technique which uses concepts from the Multiple 
+Instance Learning (MIL) framework to train a convolutional deep neural network. 
 As data is only available in batches, we pretrain a variational autoencoder (unsupervised) 
 and then estimated class labels from weak labels provided during training.
 
-A full description of this work has been submitted to ICML 2019.
+This work was presented at ML4H @ NeurIPS 2018 and a full description of the method is
+available on ArXiv: [https://arxiv.org/abs/1812.00884](https://arxiv.org/abs/1812.00884)
 
 #### MNIST-BAG
 
