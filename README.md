@@ -9,7 +9,7 @@ As data is only available in batches, we pretrain a variational autoencoder (uns
 and then estimate class labels from weak labels provided during training.
 
 This work was presented at ML4H @ NeurIPS 2018 and a full description of the method is
-available on ArXiv: [https://arxiv.org/abs/1812.00884](Cluster-Based Learning from Weakly Labeled Bags in Digital Pathology)
+available on ArXiv: [Cluster-Based Learning from Weakly Labeled Bags in Digital Pathology](https://arxiv.org/abs/1812.00884)
 
 #### MNIST-BAG
 
